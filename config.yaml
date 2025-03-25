@@ -14,6 +14,16 @@ markup:
   tableOfContents:
     startLevel: 1
 
+# Multi-lingual mode config
+# There are different options to translate files
+# See https://gohugo.io/content-management/multilingual/#translation-by-filename
+# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+languages:
+  en:
+    languageName: English
+    contentDir: content.en
+    weight: 1
+
 menu:
   # before: []
   after:
@@ -40,12 +50,12 @@ params:
 
   # (Optional, default none) Set the path to a logo for the book.
   # If the logo is /static/logo.png then the path would be logo.png
-  BookLogo: /banner.png
+  # BookLogo: /banner.png
 
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection: "*"
+  # BookSection: "*"
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.

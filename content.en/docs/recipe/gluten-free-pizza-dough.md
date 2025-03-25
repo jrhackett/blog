@@ -1,6 +1,7 @@
 ---
 tags: ["pizza"]
 title: "Gluten-free pizza dough"
+weight: 1
 ---
 
 This makes enough dough for 2 pizzas.
