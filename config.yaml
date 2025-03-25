@@ -32,7 +32,7 @@ params:
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
-  BookToC: true
+  BookToC: false
 
   # (Optional, default favicon.png) Set the path to a favicon file.
   # If the favicon is /static/favicon.png then the path would be favicon.png
@@ -40,12 +40,12 @@ params:
 
   # (Optional, default none) Set the path to a logo for the book.
   # If the logo is /static/logo.png then the path would be logo.png
-  # BookLogo: /logo.png
+  BookLogo: /banner.png
 
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection: recipe
+  BookSection: *
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
