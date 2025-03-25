@@ -1,0 +1,13 @@
+baseURL: https://jrhackett.github.io/blog
+languageCode: en-us
+title: Hackerlaan
+theme: hugo-theme-mini
+paginate: 5
+
+permalinks:
+  posts: /recipe/:title/
+
+params:
+  enableRSS: false
+  enableComments: false
+  enableGoogleAnalytics: false
