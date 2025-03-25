@@ -9,13 +9,6 @@ Paginate = 100
 googleAnalytics = ""
 enableRobotsTXT = true
 
-[languages]
-[languages.en]
-title = "Ananke"
-weight = 1
-contentDir = "content/en"
-# languageDirection = 'rtl' for Right-To-Left languages
-
 [sitemap]
 changefreq = "monthly"
 priority = 0.5
