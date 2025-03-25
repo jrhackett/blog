@@ -1,6 +1,5 @@
 ---
 date: 2025-03-25T02:56:33Z
-description: "Tastes just like it has gluten in it"
 featured_image: "/images/gluten-free-pizza-dough.png"
 tags: ["pizza"]
 title: "Gluten-free pizza dough"
