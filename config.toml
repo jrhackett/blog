@@ -1,3 +1,32 @@
-baseURL = "http://example.org/"
+title = "Hackerlaan"
+baseURL = "https://jrhackett.github.io/blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 100
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+[languages.en]
+title = "Ananke"
+weight = 1
+contentDir = "content/en"
+# languageDirection = 'rtl' for Right-To-Left languages
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+text_color = ""
+author = ""
+favicon = ""
+site_logo = ""
+description = "We're just having fun with it"
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-purple"
+recent_posts_number = 10
