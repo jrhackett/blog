@@ -1,5 +1,4 @@
 ---
-tags: ["pizza"]
 title: "Gluten-free pizza dough"
 weight: 1
 ---
