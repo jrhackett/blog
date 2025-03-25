@@ -1,7 +1,7 @@
 baseURL: https://jrhackett.github.io/blog
 languageCode: en-us
 title: Hackerlaan
-theme: hugo-theme-mini
+theme: hugo-book
 paginate: 5
 
 permalinks:
