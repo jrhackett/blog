@@ -1,6 +1,4 @@
 ---
-date: 2025-03-25T02:56:33Z
-featured_image: "/images/gluten-free-pizza-dough.png"
 tags: ["pizza"]
 title: "Gluten-free pizza dough"
 ---
