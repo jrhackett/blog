@@ -20,7 +20,6 @@ Servings: 2
 
 * 1 acorn squash
 * 6 oz halloumi cheese
-* 2 garlic cloves
 * 1 tbsp olive oil
 * 1 tsp cumin
 
