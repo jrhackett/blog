@@ -36,6 +36,7 @@ Servings: 2
 ### Other
 
 * 2 shallots
+* 1 bunch of kale
 
 ## Instructions
 
@@ -50,6 +51,6 @@ Servings: 2
 9. Bake chicken for roughly 28 minutes
 10. Whisk together dressing ingredients excluding the olive oil
 11. Slowly add the olive oil until emulsified
-12. Add kale and massage kale in the dressing
+12. Remove stems from kale and massage kale in the dressing
 13. Broil squash, halloumi, and chicken for a couple minutes if more color is needed
 14. Top kale with chicken, squash, and halloumi
