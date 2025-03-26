@@ -7,7 +7,7 @@ Servings: 2
 
 ## Ingredients:
 
-### Chicken maranade
+### Chicken marinade
 
 * 1 garlic cloves
 * zest of 1 lemon
@@ -40,8 +40,8 @@ Servings: 2
 ## Instructions
 
 1. Preheat oven to 425
-2. Finely grate garlic and combine maranade ingredients in a bowl
-3. Put chicken in bowl and evenly coat in maranade
+2. Finely grate garlic and combine marinade ingredients in a bowl
+3. Put chicken in bowl and evenly coat in marinade
 4. Cut squash and halloumi into inch cubes
 5. Place squash and halloumi on a baking sheet and drizzle with olive oil, salt, cumin, and pepper, toss to combine
 6. Thinly slice shallots and make 3 piles on a baking sheet
