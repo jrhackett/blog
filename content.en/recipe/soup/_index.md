@@ -1,4 +1,0 @@
----
-title: Soups
----
-Placeholder Soup
